@@ -1,24 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# #### Module Code : CSMAI21
-# #### Assignment Report Title : Flight Price Prediction Coursework
-# #### Student Number : 30832715
-# #### Date (when work was completed) : 09-March-2023
-# #### Actual hours spent on assignment : 40 hrs
-# #### Assignment evaluation (3 key points):
-# 
-# 1. Starting with Exploratory Data Analysis using Python to later developing the models, there are multiple things we can do with the data, but limited to the length of the coursework and time that can be allocated.
-# 
-# 2. There are numerous possibilities to visualize the dataset, I have tried some of them which i found useful and uniform to plots.
-# 
-# 3. As there are multiple ways to code the same problem, optimising the code through functions and config specially a little challenge for me.
-
-# # Flight Price Prediction
-
-# #### Importing the Necessory Libraries
-
-# In[1]:
 
 
 import pandas as pd
